@@ -1,1 +1,1 @@
-[MeetingMinutes Logo](/public/images/logo.png)
+![MeetingMinutes Logo](/public/images/logo.png)
